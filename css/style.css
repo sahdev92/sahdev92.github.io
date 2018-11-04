@@ -108,9 +108,9 @@ min-height: 100%;
 
 
   /* entypo */
-  [class*="entypo-"]:before {
+  /* [class*="entypo-"]:before {
     font-family: 'entypo', sans-serif;
-  }
+  } */
 
   .footer {
   color: #7a7a7a;
