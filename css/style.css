@@ -108,7 +108,7 @@
   } */
 
   .footer {
-  color: #fff;
+  color: #fff !important;
   position: absolute;
   bottom: 0;
   width: 100%;
